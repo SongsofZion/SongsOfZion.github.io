@@ -7,3 +7,4 @@ Note: To download a local copy to your phone or computer, long-press/right-click
 
 *Version 1: Last updated: 1st October 2024*
 *Version 2: Last updated: 8th May 2025*
+*Version 2.1: Last updated: 8th May 2025*
